@@ -8,7 +8,7 @@ Stakeholder Interview with the goal of generating a specification for the assist
 
 "If this system worked perfectly after three months — what specifically would be different about your working day compared to today?"
 
-Why this matters: Right now G0 says "Maximise BA productivity" — but that's still vague. His answer will tell you whether productivity means speed (do things faster), completeness (miss nothing), confidence (trust your own work), or autonomy (need less help from others). Each of those gives G0 a different measurable shape and affects how you prioritise G1, G2, G3.
+Why this matters: Right now G0 says "Maximise BA productivity" — but that's still vague. The answer will tell you whether productivity means speed (do things faster), completeness (miss nothing), confidence (trust your own work), or autonomy (need less help from others). Each of those gives G0 a different measurable shape and affects how you prioritise G1, G2, G3.
 
 Answer to 1st question: the productivity in his perspective means that, whenever he does an interview and is finished with it, he only wants all the required elements to be ticked off and that the result is reliable, that he could close his teams app and then feels relaxed knowing that the interview went perfectly and the required informations are gathered and documented properly.. So basically it's all of the aspects, from speed, reliability, completeness, confidence and autonomy.
 
