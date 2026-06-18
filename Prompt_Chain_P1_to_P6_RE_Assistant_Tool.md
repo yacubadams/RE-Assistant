@@ -97,11 +97,7 @@ For each leaf goal, identify the most critical obstacle that could prevent it fr
 being achieved in this system context.
 
 # FOCUS AREAS — LLM-specific failure modes to prioritise
-  - Hallucination:       LLM generates output not grounded in the conversation
-  - Wrong timing:        LLM interrupts the interview at an inappropriate moment
-  - Over-generation:     LLM produces too many suggestions causing overload
-  - Conflict:            LLM surfaces two contradicting recommendations
-  - Artifact violation:  LLM modifies data it should not touch (legal risk)
+  A realistic way the goal could fail in this system, only derived from something the stakeholder actually said.
 
 # FOR EACH OBSTACLE, PROVIDE
   Obstacle:   [what could go wrong]
