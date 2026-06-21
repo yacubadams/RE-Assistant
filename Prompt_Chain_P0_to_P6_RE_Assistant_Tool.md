@@ -142,7 +142,7 @@ You are performing KAOS obstacle analysis for an LLM-powered system.
 For each leaf goal, identify the most critical obstacle that could prevent it from
 being achieved in this system context.
 
-# FOCUS AREAS — LLM-specific failure modes to prioritise
+# FOCUS AREAS — FAILURE MODE specific to this system
   A realistic way the goal could fail in this system, only derived from something the stakeholder actually said.
 
 # FOR EACH OBSTACLE, PROVIDE
